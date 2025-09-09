@@ -1,8 +1,11 @@
-This automation project follows BDD using Cucumber. The design pattern is Page Object Model.
+# 🧪 BDD Cucumber Maven Framework
 
-The dependancies are managed using maven. It is mamaged using pom.xml file.
+## 🧠 Overview
 
-All the logic is written inside src/main
-All the test related code is wriiten inside src/main
+This is a **Java-based BDD (Behavior-Driven Development) automation framework** that uses:
 
-The test are executed using TestRunner file.
+- ✅ **Cucumber** – For writing test cases in plain English using Gherkin syntax  
+- ✅ **JUnit** – For executing the test scenarios  
+- ✅ **Maven** – For project build and dependency management
+
+
